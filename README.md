@@ -18,9 +18,9 @@ I’m a recent Electrical and Electronic Engineering graduate from the **Univers
 - 🌱 Interested in growing as an engineer across **AI/ML, telecommunications, and data engineering**.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sahan24854/sahan24854/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sahan24854/sahan24854/output/github-contribution-grid-snake.svg" />
-  <img alt="Animated snake tracing Sahan's GitHub contribution graph" src="https://raw.githubusercontent.com/sahan24854/sahan24854/output/github-contribution-grid-snake.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sahan24854/sahan24854/main/assets/neural-network-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sahan24854/sahan24854/main/assets/neural-network.svg" />
+  <img alt="Neural network with softly pulsing nodes and flowing signals" src="https://raw.githubusercontent.com/sahan24854/sahan24854/main/assets/neural-network.svg" width="100%" />
 </picture>
 
 ## Technical toolkit
